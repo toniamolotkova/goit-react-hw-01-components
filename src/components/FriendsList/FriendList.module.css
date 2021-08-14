@@ -1,0 +1,12 @@
+.item {
+  display: flex;
+  align-items: center;
+  width: 33%;
+
+  margin: 0 auto;
+  margin-bottom: 20px;
+  padding: 20px;
+
+  border: 1px solid #eee;
+  border-radius: 5px;
+}
